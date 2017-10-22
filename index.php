@@ -49,7 +49,7 @@
 					<header>
 						<h2>What I Do</h2>
 					</header>
-					<p>I spend 70-80 hrs a week coding, saying goodbye to any social life. This is all worth it though, the constant challenge and complexity of programming has given my life more meaning than anything else.</p>
+					<p>I spend 70-80 hrs a week coding, constantly teaching myself new technologies and frameworks. I am an extremely active Open Source contributer, having written several tests and the Norwegian translations for a mental health application.<a href='https://www.if-me.org/'>If Me</a></p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Next</a>
 			</section>
@@ -70,7 +70,7 @@
 				<div class="content">
 					<header>
 						<h2>My Work</h2>
-						<p>I am constantly teaching myself new technologies and building projects. I am currently working on Python/Django.</p>
+						<p>I am constantly teaching myself new technologies and building projects. The following are built using Ruby on Rails, React.js, Express.js and Node.js. I am currently working on Python/Django.</p>
 					</header>
 
 					<!-- Gallery  -->
