@@ -49,7 +49,7 @@
 					<header>
 						<h2>What I Do</h2>
 					</header>
-					<p>I spend 70-80 hrs a week coding, constantly teaching myself new technologies and frameworks. I am an extremely active Open Source contributer, having written several tests and the Norwegian translations for a mental health application.<a href='https://www.if-me.org/'>If Me</a></p>
+					<p>I spend 70-80 hrs a week coding, constantly teaching myself new technologies and frameworks. I am an extremely active Open Source contributer, having written several tests and the Norwegian translations for a mental health application <a href='https://www.if-me.org/'>If Me</a></p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Next</a>
 			</section>
