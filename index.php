@@ -88,7 +88,7 @@
 								<a href="https://rubygems.org/gems/help_me_p" class="image fit"><img src="images/projects/help-me-p.png" title="Carry on" alt="" /></a>
 							</article>
 							<article class="from-left">
-								<a href="https://github.com/vildevev/catch-of-the-day" class="image fit"><img src="images/projects/catch-of-the-day.png" title="The sparkling shell" alt="" /></a>
+								<a href="https://catch-of-the-dayy.herokuapp.com/" class="image fit"><img src="images/projects/catch-of-the-day.png" title="The sparkling shell" alt="" /></a>
 							</article>
 							<article class="from-right">
 								<a href="http://peoplegroveapp.herokuapp.com/" class="image fit"><img src="images/projects/task-tracker.png" title="Bent IX" alt="" /></a>
