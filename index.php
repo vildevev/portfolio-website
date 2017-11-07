@@ -76,7 +76,7 @@
 					<!-- Gallery  -->
 						<div>
 							<article class="from-left" id='lpn'>
-								<a href="https://lpnfitness.herokuapp.com" class="image fit"><img src="images/projects/lpn.png" title="The Anonymous Red" alt="" /></a>
+								<a href="https://github.com/govindrai/LPN-Fitness-App" class="image fit"><img src="images/projects/lpn.png" title="The Anonymous Red" alt="" /></a>
 							</article>
 							<article class="from-right">
 								<a href="https://twitter-clone-in-rails.herokuapp.com" class="image fit"><img src="images/projects/twitter.png" title="Airchitecture II" alt="" /></a>
