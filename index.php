@@ -82,7 +82,7 @@
 								<a href="https://twitter-clone-in-rails.herokuapp.com" class="image fit"><img src="images/projects/twitter.png" title="Airchitecture II" alt="" /></a>
 							</article>
 							<article class="from-left">
-								<a href="http://mission-trail.herokuapp.com/" class="image fit"><img src="images/projects/mission-trail.png" title="Air Lounge" alt="" /></a>
+								<a href="https://github.com/vildevev/catch-of-the-day" class="image fit"><img src="images/projects/mission-trail.png" title="Air Lounge" alt="" /></a>
 							</article>
 							<article class="from-right">
 								<a href="https://rubygems.org/gems/help_me_p" class="image fit"><img src="images/projects/help-me-p.png" title="Carry on" alt="" /></a>
