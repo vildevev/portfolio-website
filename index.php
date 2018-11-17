@@ -36,7 +36,7 @@
 					<header>
 						<h2>Hey.</h2>
 					</header>
-					<p>I am a Seattle based<strong>backend developer</strong> currently working in C# and .NET, but I build in React/JavaScript and Python on the side.</p>
+					<p>I am a Seattle based <strong>backend developer</strong> currently working in C# and .NET, but I build in React/JavaScript and Python on the side.</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
