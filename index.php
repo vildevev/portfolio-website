@@ -36,7 +36,7 @@
 					<header>
 						<h2>Hey.</h2>
 					</header>
-					<p>Ever thought about hiring a <strong>20 year old Norwegian girl</strong>? this is your chance.</p>
+					<p>I am a Seattle based<strong>backend developer</strong> currently working in C# and .NET, but I build in React/JavaScript and Python on the side.</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
@@ -49,7 +49,7 @@
 					<header>
 						<h2>What I Do</h2>
 					</header>
-					<p>I am currently a Software Engineer working at Pinterest on their Internal Tools team.</p>
+					<p>I am currently a Software Engineer working at Microsoft on their Deliver and Order Management team within Supply Chain. I have previously worked at Pinterest on their Advertiser Experience team.</p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Next</a>
 			</section>
@@ -60,7 +60,7 @@
 					<header>
 						<h2>Who I Am</h2>
 					</header>
-					<p>Originally from Oslo, Norway. Moved to San Francisco straight out of High School to pursue a career in software development. I have a US citizenship though, so no need to worry about a work visa ;)</p>
+					<p>Originally from Oslo, Norway. I have a US citizenship though, so no need to worry about a work visa ;)</p>
 				</div>
 				<a href="#work" class="button style2 down anchored">Next</a>
 			</section>
@@ -70,7 +70,7 @@
 				<div class="content">
 					<header>
 						<h2>My Work</h2>
-						<p>I am constantly teaching myself new technologies and building projects. The following are built using Ruby on Rails, React.js, Express.js and Node.js. I am currently working in Django and React/Redux.</p>
+						<p>I am constantly teaching myself new technologies and building projects. The following are built using Ruby on Rails, React.js, Express.js and Node.js. I am currently working in C#, .NET and SQL.</p>
 					</header>
 
 					<!-- Gallery  -->
