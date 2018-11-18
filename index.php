@@ -36,7 +36,7 @@
 					<header>
 						<h2>Hey.</h2>
 					</header>
-					<p>I am a Seattle based <strong>backend developer</strong> currently working in C# and .NET, but I build in React/JavaScript and Python on the side.</p>
+					<p>I am a Seattle based <strong>backend developer</strong> currently working in C# and .NET, and I also build in React/JavaScript and Python on the side.</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
@@ -78,18 +78,23 @@
 							<article class="from-left" id='lpn'>
 								<a href="https://github.com/govindrai/LPN-Fitness-App" class="image fit"><img src="images/projects/lpn.png" title="The Anonymous Red" alt="" /></a>
 							</article>
+							<br/>
 							<article class="from-right">
 								<a href="https://twitter-clone-in-rails.herokuapp.com" class="image fit"><img src="images/projects/twitter.png" title="Airchitecture II" alt="" /></a>
 							</article>
+							<br/>
 							<article class="from-left">
 								<a href="https://github.com/vildevev/catch-of-the-day" class="image fit"><img src="images/projects/mission-trail.png" title="Air Lounge" alt="" /></a>
 							</article>
+							<br/>
 							<article class="from-right">
 								<a href="https://rubygems.org/gems/help_me_p" class="image fit"><img src="images/projects/help-me-p.png" title="Carry on" alt="" /></a>
 							</article>
+							<br/>
 							<article class="from-left">
 								<a href="https://catch-of-the-dayy.herokuapp.com/" class="image fit"><img src="images/projects/catch-of-the-day.png" title="The sparkling shell" alt="" /></a>
 							</article>
+							<br/>
 							<article class="from-right">
 								<a href="http://peoplegroveapp.herokuapp.com/" class="image fit"><img src="images/projects/task-tracker.png" title="Bent IX" alt="" /></a>
 							</article>
